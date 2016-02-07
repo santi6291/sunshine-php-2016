@@ -1,4 +1,4 @@
-# SunshinePHP 2016
+# [SunshinePHP 2016](https://joind.in/event/sunshinephp-2016)
 
 - **recommended**
 - *need slides*
