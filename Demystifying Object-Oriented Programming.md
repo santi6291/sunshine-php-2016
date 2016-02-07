@@ -1,5 +1,5 @@
 # Demystifying Object-Oriented Programming
-## Alena Holligan
+## Alena Holligan [@sketchings](https://twitter.com/sketchings)
 
 [slides](http://www.slideshare.net/AlenaHolligan/demystifying-objectoriented-programming-ssphp16)
 

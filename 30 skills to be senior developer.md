@@ -1,5 +1,5 @@
 # 30 skills to be senior developer
-## Sean Coates
+## Sean Coates [@fooyay](https://twitter.com/fooyay)
 
 [slides](http://www.slideshare.net/SeanCoates1/30-skills-to-master-to-become-a-senior-software-engineer)
 

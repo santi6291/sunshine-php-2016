@@ -1,5 +1,5 @@
 #Docker for Developers
-##by Chris Tankersley
+##Chris Tankersley [@dragonmantank](https://twitter.com/dragonmantank)
 
 ###basic docker
 

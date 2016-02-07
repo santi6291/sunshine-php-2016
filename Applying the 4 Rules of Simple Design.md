@@ -1,5 +1,5 @@
 # Applying the 4 Rules of Simple Design
-## Adam Wathan
+## Adam Wathan [@adamwathan](https://twitter.com/adamwathan)
 
 [SLIDES](https://speakerdeck.com/adamwathan/applying-the-rules-of-simple-design)
 

@@ -1,5 +1,5 @@
 # What They Should Tell You About API Development 
-## Phil Sturgeon
+## Phil Sturgeon [@philsturgeon](https://twitter.com/philsturgeon)
 
 - RPC = Commands
 - REST = resources
