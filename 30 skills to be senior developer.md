@@ -1,6 +1,8 @@
 # 30 skills to be senior developer
 ## Sean Coates
 
+[slides](http://www.slideshare.net/SeanCoates1/30-skills-to-master-to-become-a-senior-software-engineer)
+
 - Virtual Machines
 	- represent your production env more closly
 	-  using vagrant or docker
