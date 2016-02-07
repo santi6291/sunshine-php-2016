@@ -1,9 +1,6 @@
 # 30 skills to be senior developer
 ## Sean Coates
 
-- client side frameowrk
-- task runner
-	- custom script are not good for new people
 - Virtual Machines
 	- represent your production env more closly
 	-  using vagrant or docker
@@ -29,20 +26,8 @@
 -  packages
 	-  avoid bleeding edge, but right behind
 -  unit testing
-	-  BIG INDICATOR OF THE RIGHT PATH
-	-  [PHPunit](https://phpunit.de/)
-	-  [phpSpec](http://phpspec.readthedocs.org/en/latest/)
-	-  [behat](http://docs.behat.org/en/v3.0/)
-	-  BDD with behat
-	-  TDD with phpspec
 -  phpStorm with XDebug
 -  noSQL DB
-	-  When to use a sql db vs a noSQL db
-	-  mongoDB
-	-  cassandra
-	-  amazonDB
-	-  redis
-	-  couchDB
 -  automate workflow
 	-  deployment
 	-  Jenkins -> Jenkins best practices 
@@ -52,4 +37,3 @@
 -  team programming
 	-  pair coding
 -  patterns of design engineering
-	-  

@@ -11,7 +11,7 @@
 - [What They Should Tell You About API Development .md](./What They Should Tell You About API Development .md) <- [read the book](http://www.amazon.com/Build-APIs-You-Wont-Hate/dp/0692232699/ref=sr_1_1?ie=UTF8&qid=1454815410&sr=8-1&keywords=build+api+you+won%27t+hate)
 - **[Applying the 4 Rules of Simple Design.md](./Applying the 4 Rules of Simple Design.md)**
 - [Taking the web offline.md](./Taking the web offline.md)
-- **[Regex makes me want to (weep-give up-(╯°□°)╯︵ ┻━┻)\.md](./Regex makes me want to (weep-give up-(╯°□°)╯︵ ┻━┻)\.md)**
+- **[Regex makes me want to (weep-give up-(╯°□°)╯︵ ┻━┻)\.md](./https://github.com/santi6291/sunshine-php-2016/blob/master/Regex%20makes%20me%20want%20to%20(weep-give%20up-(%E2%95%AF%C2%B0%E2%96%A1%C2%B0)%E2%95%AF%EF%B8%B5%20%E2%94%BB%E2%94%81%E2%94%BB)%5C.md)**
 - [Functional ES6 JavaScript.md](./Functional ES6 JavaScript.md)
 
 ## Slides
