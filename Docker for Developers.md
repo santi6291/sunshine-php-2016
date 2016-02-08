@@ -1,6 +1,8 @@
 #Docker for Developers
 ##Chris Tankersley [@dragonmantank](https://twitter.com/dragonmantank)
 
+[slides](http://www.slideshare.net/ctankersley/docker-for-developers-57978920)
+
 ###basic docker
 
 - docker machine is a bare metal provisioning tool
